@@ -1,11 +1,17 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2d0a0a,100:8B0000&height=200&section=header&text=Dedrick%20D.&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20|%20Cloud%20Architect%20|%20Automation%20Enthusiast&descAlignY=55&descSize=18"/>
+<!-- ░░░ HEADER BANNER ░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2d0a0a,100:8B0000&height=220&section=header&text=Dedrick%20D.&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Automation%20Enthusiast&descAlignY=54&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&repeat=true&width=435&lines=DevOps+%E2%80%A2+Cloud+%E2%80%A2+Automation;Building+scalable+infrastructure)](https://git.io/typing-svg)
+<!-- ░░░ TYPING SVG ░░░ -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&repeat=true&width=480&lines=DevOps+%E2%80%A2+Cloud+%E2%80%A2+Automation;Building+scalable+infrastructure;Mediocrity+is+a+sin.)](https://git.io/typing-svg)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://dedrickobo.github.io)
+<!-- ░░░ STATUS BADGES ░░░ -->
+![Profile Views](https://komarev.com/ghpvc/?username=dedrickobo&color=8B0000&style=for-the-badge&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/dedrickobo?style=for-the-badge&color=8B0000&labelColor=0d0d0d&logo=github&logoColor=white)](https://github.com/dedrickobo?tab=followers)
+
+<!-- ░░░ SOCIALS ░░░ -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=github&logoColor=DC143C)](https://dedrickobo.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dedrickk/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dedrickirl@gmail.com)
 
@@ -18,11 +24,7 @@
 ```yaml
 name: Dedrick D.
 located_in: Batam, Indonesia
-current_role: DevOps Engineer @ OneByOne
-education:
-  degree: Bachelor of Computer Science (S.Kom)
-  institution: Universitas Internasional Batam
-  gpa: 3.91
+current_role: DevOps Engineer @ Apple DevOps Institute
 
 currently_working_on:
   - Cloud infrastructure automation
@@ -34,6 +36,21 @@ open_to:
   - Cloud architecture discussions
   - Knowledge sharing
 ```
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dedrickobo&show_icons=true&count_private=true&hide_border=true&title_color=DC143C&icon_color=8B0000&text_color=c9d1d9&bg_color=0d0d0d"/>
+<img height="170em" src="https://streak-stats.demolab.com?user=dedrickobo&hide_border=true&background=0d0d0d&ring=DC143C&fire=8B0000&currStreakLabel=DC143C&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=2d0a0a"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedrickobo&layout=compact&langs_count=8&hide_border=true&title_color=DC143C&text_color=c9d1d9&bg_color=0d0d0d"/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dedrickobo&bg_color=0d0d0d&color=DC143C&line=8B0000&point=ffffff&area=true&hide_border=true"/>
+
+</div>
 
 ---
 
