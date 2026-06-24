@@ -39,21 +39,6 @@ open_to:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=dedrickobo&show_icons=true&count_private=true&hide_border=true&title_color=DC143C&icon_color=8B0000&text_color=c9d1d9&bg_color=0d0d0d"/>
-<img height="170em" src="https://streak-stats.demolab.com?user=dedrickobo&hide_border=true&background=0d0d0d&ring=DC143C&fire=8B0000&currStreakLabel=DC143C&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=2d0a0a"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dedrickobo&layout=compact&langs_count=8&hide_border=true&title_color=DC143C&text_color=c9d1d9&bg_color=0d0d0d"/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dedrickobo&bg_color=0d0d0d&color=DC143C&line=8B0000&point=ffffff&area=true&hide_border=true"/>
-
-</div>
-
----
-
 ## 🏅 Certifications
 
 <div align="center">
