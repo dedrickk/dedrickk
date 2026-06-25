@@ -7,11 +7,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&repeat=true&width=480&lines=DevOps+%E2%80%A2+Cloud+%E2%80%A2+Automation;Building+scalable+infrastructure;Mediocrity+is+a+sin.)](https://git.io/typing-svg)
 
 <!-- ░░░ STATUS BADGES ░░░ -->
-![Profile Views](https://komarev.com/ghpvc/?username=dedrickobo&color=8B0000&style=for-the-badge&label=PROFILE+VIEWS)
-[![Followers](https://img.shields.io/github/followers/dedrickobo?style=for-the-badge&color=8B0000&labelColor=0d0d0d&logo=github&logoColor=white)](https://github.com/dedrickobo?tab=followers)
+![Profile Views](https://komarev.com/ghpvc/?username=dedrickk&color=8B0000&style=for-the-badge&label=PROFILE+VIEWS)
+[![Followers](https://img.shields.io/github/followers/dedrickk?style=for-the-badge&color=8B0000&labelColor=0d0d0d&logo=github&logoColor=white)](https://github.com/dedrickk?tab=followers)
 
 <!-- ░░░ SOCIALS ░░░ -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=github&logoColor=DC143C)](https://dedrickobo.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=github&logoColor=DC143C)](https://dedrickk.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dedrickk/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dedrickirl@gmail.com)
 
@@ -104,7 +104,7 @@ open_to:
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/dedrickobo/dedrickobo/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/dedrickk/dedrickk/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
