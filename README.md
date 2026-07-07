@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:2d0a0a,100:8B0000&height=220&section=header&text=Dedrick%20D.&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20Engineer%20%E2%80%A2%20Cloud%20Architect%20%E2%80%A2%20Automation%20Enthusiast&descAlignY=54&descSize=18"/>
 
 <!-- ░░░ TYPING SVG ░░░ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&repeat=true&width=480&lines=DevOps+%E2%80%A2+Cloud+%E2%80%A2+Automation;Building+scalable+infrastructure;Mediocrity+is+a+sin.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=DC143C&center=true&vCenter=true&repeat=true&width=480&lines=DevOps+%E2%80%A2+Cloud+%E2%80%A2+Automation;Building+scalable+infrastructure)](https://git.io/typing-svg)
 
 <!-- ░░░ STATUS BADGES ░░░ -->
 ![Profile Views](https://komarev.com/ghpvc/?username=dedrickk&color=8B0000&style=for-the-badge&label=PROFILE+VIEWS)
@@ -112,7 +112,6 @@ open_to:
 
 <div align="center">
 
-### 💬 *"Mediocrity is a sin."*
 
 <img width="350" src="assets/saber-alter.gif"/>
 <img width="350" src="assets/123.gif"/>
